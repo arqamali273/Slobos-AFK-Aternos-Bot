@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "fact-marine.gl.joinmc.link",
+    "port": ,
     "version": "",
     "try-creative": false
   },
